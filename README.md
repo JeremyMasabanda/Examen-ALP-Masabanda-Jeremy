@@ -1,7 +1,9 @@
 # Examen-ALP-Masabanda-Jeremy
 
 **Estudiante:** Jeremy Masabanda
+
 **Asignatura:** Algoritmos y Lógica de Programación — UTA / FISEI / Ingeniería de Software
+
 **Variante asignada:** X — promedio mínimo de aprobación: 14
 
 ## Descripción del problema
