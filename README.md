@@ -7,7 +7,7 @@
 **Variante asignada:** X — promedio mínimo de aprobación: 14
 
 ## Descripción del problema
-AulaLogic es un sistema por consola que registra estudiantes con tres calificaciones, calcula promedio, nota máxima/mínima y estado académico, genera un reporte del curso y guarda los datos en `datos/estudiantes.txt`.
+AulaLogic es un sistema por consola que registra estudiantes con tres calificaciones, calcula promedio, nota máxima/mínima y estado académico, genera un reporte del curso y guarda los datos en  `datos/estudiantes.txt`.
 
 ## Compilación y ejecución
 Desde la carpeta raíz del proyecto (Java 11 o superior):
