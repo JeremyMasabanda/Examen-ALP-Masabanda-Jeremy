@@ -4,7 +4,7 @@
 
 **Asignatura:** Algoritmos y Lógica de Programación — UTA / FISEI / Ingeniería de Software
 
-**Variante asignada:** X — promedio mínimo de aprobación: 14
+**Variante asignada:** D — promedio mínimo de aprobación: 14
 
 ## Descripción del problema
 AulaLogic es un sistema por consola que registra estudiantes con tres calificaciones, calcula promedio, nota máxima/mínima y estado académico, genera un reporte del curso y guarda los datos en  `datos/estudiantes.txt`.
