@@ -9,4 +9,4 @@
 | CP05 | Opción 3: E001 | Muestra código, nombre, notas, promedio, máx., mín. y estado | Ficha completa de Ana Torres | Aprobado |
 | CP06 | Opción 3: E999 | Mensaje informativo | "No existe un estudiante con el codigo E999." | Aprobado |
 | CP07 | Opción 4 sin estudiantes | Mensaje, sin error ni división entre cero | "No hay estudiantes registrados..." | Aprobado |
-| CP08 | Registrar E004, opción 6, reiniciar, opción 2 | E004 sigue en la lista, sin duplicados | `estudiantes.txt` con 4 líneas; se recuperan al iniciar | Aprobado |
+| CP08 | Registrar E005, opción 6, reiniciar, opción 2 | E004 sigue en la lista, sin duplicados | `estudiantes.txt` con 4 líneas; se recuperan al iniciar | Aprobado |
