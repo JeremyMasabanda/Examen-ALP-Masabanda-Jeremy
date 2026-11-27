@@ -1,3 +1,3 @@
-Jeremy Masabanda;15;14;13
-Jeremy Toalombo;10;11;12
-Gabriel Dávila;18;19;17
+380;Jeremy Masabanda;15;14;13
+120;Jeremy Toalombo;10;11;12
+240;Gabriel Dávila;18;19;17
