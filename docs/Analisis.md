@@ -27,4 +27,4 @@
 | `Main` | Menú, lectura de datos y coordinación. |
 
 ## Prueba de escritorio (promedio en el límite)
-Notas 15, 14, 13 → suma = 42 → 42 / 3 = 14.0 → 14.0 ≥ 14 → **APROBADO**.
+Notas 15, 14, 13 → suma = 42 → 42 / 3 = 14.0 → 14.0 ≥ 14 → **Aprobado**.
