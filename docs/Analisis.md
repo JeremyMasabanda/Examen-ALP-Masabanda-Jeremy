@@ -1,6 +1,6 @@
 # Análisis del problema — AulaLogic
 
-**Estudiante:** _Apellido Nombre_  **Variante:** _X_ (promedio mínimo de aprobación = 14)
+**Estudiante:** Jeremy Masabanda  **Variante:** D (promedio mínimo de aprobación = 14)
 
 ## Entradas
 - Opción del menú (entero 1–6).
